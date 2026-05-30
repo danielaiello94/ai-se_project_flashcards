@@ -9,3 +9,7 @@ Expandable flash cards used to study for whatever is needed. Flash cards can be 
 ## Technologies Used
 
 HTML, CSS, Javascript
+
+## Deployed Site
+
+Check out [this site] (https://danielaiello94.github.io/ai-se_project_flashcards) on GitHub Pages.
